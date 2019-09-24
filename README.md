@@ -34,3 +34,7 @@ The exercise takes place across three files:
    * If you would like to make them move or react to the mouse, I will award extra points
 
 As usual, fork and clone this repository. Edit the LICENSE and README.md, and submit the URL of your repository to Canvas.
+For main1.py, I tried to write the code for for i in range(20) and trying to add more animals on it so that the animals can all displayed on the screen 
+For main2.py, I repeated the code of the aligator and add the code for the bear and changed the position of their speech bubbles location so that both of them can showed on the screen. 
+For main3.py, I found the moose in the self animals list and update the center location x and center location y. 
+        
